@@ -3,14 +3,14 @@ Dieser Datensatz enthält historische Bitcoin-Preisdaten von 1. Januar 2021 bis 
 
 # Spaltenübersicht:
 
-open_time – Zeitstempel (Unix), wann die Minute beginnt
-open – Eröffnungspreis von Bitcoin in USD
-high – Höchstpreis von Bitcoin innerhalb dieser Minute
-low – Tiefstpreis von Bitcoin innerhalb dieser Minute
-close – Schlusskurs von Bitcoin in USD
-volume – Gehandeltes Volumen innerhalb dieser Minute
-close_time – Zeitstempel (Unix), wann die Minute endet
-Insgesamt enthält der Datensatz ca. 190'000 Zeilen, da jede Minute zwischen Januar und Mai 2021 erfasst wurde.
+- open_time – Zeitstempel (Unix), wann die Minute beginnt
+- open – Eröffnungspreis von Bitcoin in USD
+- high – Höchstpreis von Bitcoin innerhalb dieser Minute
+- low – Tiefstpreis von Bitcoin innerhalb dieser Minute
+- close – Schlusskurs von Bitcoin in USD
+- volume – Gehandeltes Volumen innerhalb dieser Minute
+- close_time – Zeitstempel (Unix), wann die Minute endet
+- Insgesamt enthält der Datensatz ca. 190'000 Zeilen, da jede Minute zwischen Januar und Mai 2021 erfasst wurde.
 
 ## Datenschutz & Lizenz
 Dieser Datensatz enthält keine personenbezogenen Daten. Alle enthaltenen Informationen sind öffentlich zugängliche Marktdaten und beinhalten keine privaten oder sensiblen Informationen über einzelne Nutzer oder Transaktionen.
