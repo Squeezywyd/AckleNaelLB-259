@@ -18,3 +18,8 @@ Dieser Datensatz enthält keine personenbezogenen Daten. Alle enthaltenen Inform
 Die Daten wurden durch eine API generiert und enthalten keine spezifischen Identifikatoren. Es sind keine Datenschutzmassnahmen erforderlich, da keine Rückverfolgung auf Einzelpersonen möglich ist.
 
 Lizenz: Frei nutzbar unter der CC0-Lizenz (Public Domain).
+
+## Fazit
+Das Projekt zeigt, dass mit einfachen Modellen wie der linearen und logistischen Regression sehr genaue Vorhersagen möglich sind.
+Die Regression erreichte einen R²-Wert von 0.99999, die Klassifikation eine Trefferquote von 99.87 %.
+Die Auswertung bestätigte eine hohe Aussagekraft des Modells. Für zukünftige Arbeiten wären komplexere Ansätze oder Zeitreihenanalysen interessant.
